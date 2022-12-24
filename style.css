@@ -1,0 +1,135 @@
+body{
+	background-color: #F7FE2E;
+}
+nav{
+	padding: 9px;
+	text-align: center;
+
+}
+nav a{
+	margin: 15px;
+	text-decoration: none;
+	color: #2E2E2E;
+	font-family: sans-serif;
+	font-size: 18px;
+	padding: 10px;
+  border-radius: 20px;
+
+}
+.home , nav a:hover{
+  background-color: #A4A4A4;
+}
+.pp{
+	border-radius: 50%;
+	justify-content: center;
+	box-shadow: 0px 0px 10px 0px #1C1C1C;
+}
+.name{
+	font-family: arial;
+	color: #424249;
+	font-size: 50px;
+}
+.des{
+	font-family: arial;
+	color: #424249;
+	font-size: 30px;
+}
+footer{
+	font-family: sans-serif;
+	text-align: center;
+	background-color: #585858;
+	padding: 20px;
+	color: #FFFFFF;
+}
+
+.fa-facebook {
+	padding: 13px;
+  margin: 3px 2px;
+  font-size: 30px;
+  border-radius: 50%;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  color: black;
+  background: #3B5998;
+  color: white;
+  box-shadow: 0px 0px 7px 0px black;
+}
+.fa-facebook:hover{
+  opacity: 80%;
+  font-size: 31px;
+}
+.fa-youtube {
+  background: #FF0000;
+  color: white;
+  box-shadow: 0px 0px 7px 0px black;
+   padding: 13px;
+  margin: 3px 2px;
+  font-size: 30px;
+  border-radius: 50%;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  color: black;
+}
+.fa-youtube:hover{
+  opacity: 80%;
+  font-size: 31px;
+}
+.fa-instagram {
+  background: #FE2E64;
+  color: white;
+  box-shadow: 0px 0px 7px 0px black;
+   padding: 13px;
+  margin: 3px 2px;
+  font-size: 30px;
+  border-radius: 50%;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  color: black;
+}
+.fa-instagram:hover{
+  opacity: 80%;
+  font-size: 31px;
+}
+.fa-snapchat{
+  background: #FFFF00;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  box-shadow: 0px 0px 7px 0px black;
+   padding: 13px;
+  margin: 3px 2px;
+  font-size: 30px;
+  border-radius: 50%;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  color: white;
+}
+.fa-snapchat:hover{
+  opacity: 80%;
+  font-size: 31px;
+}
+.fa-github{
+	background-color: #424242;
+	color: white;
+	box-shadow: 0px 0px 7px 0px black;
+	 padding: 13px;
+  margin: 3px 2px;
+  font-size: 30px;
+  border-radius: 50%;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+}
+.fa-github:hover{
+  opacity: 80%;
+  font-size: 31px;
+}
+.fa-image{
+	color: #585858;
+}
+.fa-house{
+  font-size: 20px;
+}
